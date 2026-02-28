@@ -1,0 +1,1 @@
+I have started pyton a few weeks ago so i decided to make a github account to keep track of my progress so this is my first repository. It might be the simplest but i believe this is the most important one as this will build the foundaions of my journey into big data engineering.
